@@ -1,0 +1,87 @@
+html {
+  scroll-behavior: smooth;
+}
+
+nav ul {
+  height: 56px;
+}
+
+nav ul a {
+  color: #616A71;
+  padding-left: 12%;
+  padding-right: 12%;
+}
+
+h4 {
+  text-align: center;
+}
+
+ol {
+  type: "1";
+}
+
+.section li {
+  display: list-item;
+  list-style-type: disc;
+  margin-left: 2rem;
+}
+
+nav .brand-logo {
+  color: #33A2FF;
+}
+
+p {
+  line-height: 2rem;
+}
+
+.button-collapse {
+  color: #26a69a;
+}
+
+.parallax-container {
+  min-height: 348px;
+  line-height: 0;
+  height: auto;
+  color: rgba(255,255,255,.9);
+}
+
+.parallax-container #events .section {
+    width: 100%;
+    padding: 50%;
+}
+
+.parallax-container .section {
+    width: 100%;
+    padding: 10%;
+}
+
+@media only screen and (max-width : 1325px) {
+  .parallax-container .section {
+    position: absolute;
+    top: 40%;
+  }
+  #index-banner .section {
+    top: 10%;
+  }
+}
+
+@media only screen and (max-width : 600px) {
+  #index-banner .section {
+    top: 0;
+  }
+}
+
+.icon-block {
+  padding: 0 15px;
+}
+.icon-block .material-icons {
+  font-size: inherit;
+}
+
+footer.page-footer {
+  margin: 0;
+}
+
+section:focus {
+  outline: none;
+}
