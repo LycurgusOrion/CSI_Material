@@ -36,8 +36,12 @@ p {
 
 .parallax-container .section {
   width: 100%;
-  padding-top: 13%;
-  padding-bottom: 13%;
+  padding-top: 12%;
+  padding-bottom: 12%;
+}
+
+div h5 {
+  line-height: 45px;
 }
 
 .stats {
