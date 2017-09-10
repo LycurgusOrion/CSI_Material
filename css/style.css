@@ -6,8 +6,8 @@ nav ul a {
   color: #616A71;
  }
 
-h4 {
-  text-align: center;
+div h4 {
+  padding-left: 1%;
 }
 
 ol {
@@ -56,10 +56,28 @@ p {
   padding-right: 25%;
 }
 
+nav {
+  padding: 1%;
+  height: auto;
+}
+
+.nav-wrapper  {
+  margin-left: 15%;
+}
+
+.nav-wrapper img {
+  height: 6%;
+  width: 6%;
+}
+
 .section p {
   font-size: 25px;
   line-height: 40px;
   padding: 5%;
+}
+
+.right {
+  color: #FFFFFF;
 }
 
 .section {
