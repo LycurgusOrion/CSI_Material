@@ -19,8 +19,9 @@ ol {
   type: "1";
 }
 
-.row div p {
-  font-size: 40px;
+.row .ach li {
+  font-size: 20px;
+  text-align: justify;
 }
 
 .section .row p {
