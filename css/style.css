@@ -3,7 +3,7 @@ html {
 }
 
 nav ul {
-  margin-right: -10%;
+  margin-right: -15%;
   height: 56px;
 }
 
@@ -17,6 +17,21 @@ h4 {
 
 ol {
   type: "1";
+}
+
+.brand-logo {
+  margin-left: -20%;
+}
+
+.nav-wrapper .brand-logo img {
+  /*margin-left: 2%;*/
+  padding: 0.5%;
+}
+
+
+
+.parralax-container .row {
+  padding: 10%;
 }
 
 .row .ach li {
@@ -39,7 +54,7 @@ ol {
   display: list-item;
   list-style-type: disc;
   margin-left: 2rem;
-  font-size: 16px;
+  font-size: 18px;
 }
 
 nav .brand-logo {
