@@ -19,6 +19,14 @@ ol {
   type: "1";
 }
 
+.row div p {
+  font-size: 40px;
+}
+
+.section .row p {
+  font-size: 20px;
+}
+
 .section .container h1 {
   font-size: 70px;
   margin-right: -40%;
@@ -30,6 +38,7 @@ ol {
   display: list-item;
   list-style-type: disc;
   margin-left: 2rem;
+  font-size: 16px;
 }
 
 nav .brand-logo {
