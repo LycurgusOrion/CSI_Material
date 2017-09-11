@@ -3,13 +3,12 @@ html {
 }
 
 nav ul {
+  margin-right: -10%;
   height: 56px;
 }
 
 nav ul a {
   color: #616A71;
-  padding-left: 12%;
-  padding-right: 12%;
 }
 
 h4 {
@@ -18,6 +17,13 @@ h4 {
 
 ol {
   type: "1";
+}
+
+.section .container h1 {
+  font-size: 70px;
+  margin-right: -40%;
+  margin-left: -40%;
+  line-height: 100px;
 }
 
 .section li {
