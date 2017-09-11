@@ -2,9 +2,14 @@ html {
   scroll-behavior: smooth;
 }
 
+nav ul {
+  margin-right: -10%;
+  height: 56px;
+}
+
 nav ul a {
   color: #616A71;
- }
+}
 
 h4 {
   text-align: center;
@@ -12,6 +17,13 @@ h4 {
 
 ol {
   type: "1";
+}
+
+.section .container h1 {
+  font-size: 70px;
+  margin-right: -40%;
+  margin-left: -40%;
+  line-height: 100px;
 }
 
 .section li {
@@ -49,7 +61,7 @@ p {
     padding: 10%;
 }
 
-@media only screen and (max-width : 988px) {
+@media only screen and (max-width : 1325px) {
   .parallax-container .section {
     position: absolute;
     top: 40%;
