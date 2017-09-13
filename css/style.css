@@ -24,6 +24,14 @@ ol {
   margin-right: 50%;
 }
 
+.slides {
+  width: 1280px;
+  height: 720px;
+  padding: 5%;
+  align-items: center;
+  text-align: center;
+}
+
 .nav-wrapper .brand-logo img {
   /*margin-left: 2%;*/
   padding: 0.5%;
