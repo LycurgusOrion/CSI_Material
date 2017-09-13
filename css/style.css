@@ -27,6 +27,8 @@ ol {
 .nav-wrapper .brand-logo img {
   /*margin-left: 2%;*/
   padding: 0.5%;
+  width: 56px;
+  height: 56px;
 }
 
 
